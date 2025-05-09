@@ -4,8 +4,8 @@
 
 ````markdown
 # 🩺 Apollo247 Destination Page Clone - Doctor Listing with Filters
-<h1>Admin dashboard
-clients dashboard <h1>
+<h1>Admin dashboar
+clients dashboard </h1>
 
 This project is a **Next.js-based clone** of the destination page from Apollo247:  
 🔗 https://apollo-insight-explorer.vercel.app/
